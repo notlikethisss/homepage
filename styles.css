@@ -100,6 +100,9 @@ body {
       display: flex;
       justify-content: start;
   }
+  .contact-info_block_link {
+      display: inline;
+  }
 
   .contact-info__item:not(:last-child) {
       margin-bottom: 20px;
